@@ -1,5 +1,5 @@
 {
-	"name": "you/themename",
+	"name": "cikewang/mysql",
     "type": "library",
     "require": {
         "composer/installers": "~1.0"
